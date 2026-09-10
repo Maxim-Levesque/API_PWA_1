@@ -15,7 +15,6 @@ public class TodoDto
     // Devrait être fait dans Mapping -> automapper.
     public TodoDto(Todo todo)
     {
-
         Id = todo.Id;
         Title = todo.Text;
         Date = todo.Date;

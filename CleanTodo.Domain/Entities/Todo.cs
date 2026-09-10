@@ -19,5 +19,5 @@ public class Todo
         IsCompleted = false;
     }
 
-    public Todo() { }
+    public Todo(DTOS.CreateTodoDto todoDto) { }
 }

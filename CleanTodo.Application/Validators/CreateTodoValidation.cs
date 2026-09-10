@@ -1,4 +1,4 @@
-﻿using CleanTodo.Application.DTOS;
+﻿using CleanTodo.Domain.DTOS;
 using FluentValidation;
 
 namespace CleanTodo.Application.Validators;

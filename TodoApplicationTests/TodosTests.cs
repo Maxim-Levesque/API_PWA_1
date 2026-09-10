@@ -1,6 +1,7 @@
-using CleanTodo.Application.DTOS;
+using CleanTodo.Application.DTOs;
 using CleanTodo.Application.UseCase;
 using CleanTodo.Application.Validators;
+using CleanTodo.Domain.DTOS;
 using CleanTodo.Domain.Entities;
 using CleanTodo.Domain.Exceptions;
 using CleanTodo.Domain.Interfaces.Repositories;

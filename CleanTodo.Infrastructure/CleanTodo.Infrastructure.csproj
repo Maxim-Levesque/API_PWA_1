@@ -22,4 +22,8 @@
     <ProjectReference Include="..\CleanTodo.Domain\CleanTodo.Domain.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Migrations\" />
+  </ItemGroup>
+
 </Project>
